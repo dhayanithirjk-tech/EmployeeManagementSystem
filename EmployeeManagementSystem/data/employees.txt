@@ -1,0 +1,6 @@
+1001|Aditya Sharma|29|Male|Engineering|Software Engineer|aditya.sharma@example.com|9876543210|2023-03-15|55000.0|12 MG Road Bengaluru|O+|9876500001|ACTIVE
+1002|Priya Nair|34|Female|Engineering|Senior Software Engineer|priya.nair@example.com|9876543211|2021-07-01|85000.0|45 Residency Road Bengaluru|A+|9876500002|ACTIVE
+1003|Karthik Iyer|41|Male|Human Resources|HR Manager|karthik.iyer@example.com|9876543212|2019-01-10|72000.0|8 Anna Nagar Chennai|B+|9876500003|ACTIVE
+1004|Sneha Reddy|26|Female|Finance|Accountant|sneha.reddy@example.com|9876543213|2024-06-01|48000.0|22 Jubilee Hills Hyderabad|AB+|9876500004|ACTIVE
+1005|Mohammed Faisal|38|Male|Engineering|DevOps Engineer|mohammed.faisal@example.com|9876543214|2020-11-20|78000.0|5 Banjara Hills Hyderabad|O-|9876500005|ACTIVE
+1006|Ritu Verma|31|Female|Marketing|Marketing Lead|ritu.verma@example.com|9876543215|2022-02-14|65000.0|17 Salt Lake Kolkata|A-|9876500006|INACTIVE

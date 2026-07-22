@@ -1,0 +1,4 @@
+ENG|Engineering|Priya Nair|1001,1002,1005
+HR|Human Resources|Karthik Iyer|1003
+FIN|Finance|Sneha Reddy|1004
+MKT|Marketing|Ritu Verma|1006
